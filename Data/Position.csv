@@ -1,0 +1,6 @@
+ID,Name,Necessary_Prior_pos,Reach_Area
+1,Center,*,*
+2,Crouch,1,0
+3,Left Stance,*,*
+4,Right Stance,*,*
+5,Above,1,1
